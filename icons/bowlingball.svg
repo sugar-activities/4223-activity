@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:version="0.32" sodipodi:docname="bowlingball.svg" inkscape:version="0.46" inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55.411px"
+	 height="55.411px" viewBox="0.884 0.185 55.411 55.411" enable-background="new 0.884 0.185 55.411 55.411" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective10" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d" inkscape:persp3d-origin="372.04724 : 350.78739 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" inkscape:cy="27.439311" inkscape:cx="36.050479" inkscape:zoom="7.919596" showgrid="false" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" objecttolerance="10" gridtolerance="10000" guidetolerance="10" inkscape:current-layer="layer1" inkscape:window-y="49" inkscape:window-x="1" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-width="1279" inkscape:window-height="725" inkscape:document-units="px">
+	</sodipodi:namedview>
+<path id="path3152" sodipodi:type="arc" sodipodi:cx="21.907682" sodipodi:cy="23.622137" sodipodi:ry="14.20527" sodipodi:rx="14.20527" stroke="#FFFFFF" stroke-width="2" d="
+	M55.795,27.891c0,15.023-12.18,27.205-27.205,27.205c-15.024,0-27.208-12.182-27.208-27.205c0-15.025,12.181-27.206,27.208-27.206
+	C43.616,0.685,55.795,12.865,55.795,27.891z"/>
+<circle stroke="#FFFFFF" stroke-width="2" cx="33.924" cy="30.018" r="3.591"/>
+<circle stroke="#FFFFFF" stroke-width="2" cx="41.584" cy="19.483" r="3.112"/>
+<path stroke="#FFFFFF" stroke-width="2" d="M34.163,17.25c0,1.717-1.393,3.112-3.111,3.112c-1.717,0-3.11-1.395-3.11-3.112
+	c0-1.722,1.396-3.113,3.11-3.113C32.77,14.137,34.163,15.528,34.163,17.25z"/>
+<path fill="#FFFFFF" d="M6.633,23.572c0,0,5.806-15.262,16.877-16.758c0,0,6.224-0.718,1.257,2.274
+	C19.8,12.081,17.645,6.096,6.633,23.572z"/>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="move.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
+	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective10" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" sodipodi:type="inkscape:persp3d" inkscape:persp3d-origin="372.04724 : 350.78739 : 1">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" bordercolor="#666666" inkscape:cx="14.464286" inkscape:cy="32.962811" borderopacity="1.0" showgrid="false" pagecolor="#ffffff" inkscape:zoom="5.6" objecttolerance="10" guidetolerance="10" gridtolerance="10000" inkscape:pageshadow="2" inkscape:window-width="1279" inkscape:pageopacity="0.0" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-height="725" inkscape:window-x="1" inkscape:window-y="49">
+	</sodipodi:namedview>
+<g id="XMLID_1_">
+	<g>
+		<path fill="#0C0C0C" d="M45.804,32.429c-3.404,5.033-3.598,9.016-3.598,9.851h0.075v8.459l-26.125,0.128l-0.311-10.567
+			L0.728,26.776c0,0-2.142-7.356,6.959-6.553l7.891,6.521l0.171-0.043L11.231,6.668c0,0,2.249-5.856,7.945-1.242l5.043,20.525
+			l0.128-0.032l0.171-21.971c0,0,3.522-5.396,8.03,0.621l0.214,21.661l3.233-19.926c0,0,4.24-4.401,7.838,1.798l-2.826,19.862
+			l8.233-10.793c0,0,4.197-1.039,4.743,4.058l-8.159,11.21L45.804,32.429z"/>
+	</g>
+	<g>
+		<polyline fill="none" stroke="#FFFFFF" stroke-width="2" points="15.578,50.866 16.156,50.866 42.281,50.738 42.281,42.279 
+			42.281,42.236 		"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M16.178,51.477l-0.021-0.61l-0.311-10.567L0.728,26.776
+			c0,0-2.142-7.356,6.959-6.553l7.891,6.521"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M15.889,27.3l-0.139-0.6L11.231,6.668c0,0,2.249-5.856,7.945-1.242
+			l5.043,20.525l0.064,0.279"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M24.347,25.919l0.171-21.971c0,0,3.522-5.396,8.03,0.621l0.214,21.661
+			l0.011,0.6"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M32.741,26.39l0.021-0.16l3.233-19.926c0,0,4.24-4.401,7.838,1.798
+			l-2.826,19.862L40.933,28.5"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M40.943,28.05l0.064-0.085l8.233-10.793c0,0,4.197-1.039,4.743,4.058
+			l-8.159,11.21"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="2" d="M42.206,42.44c0,0,0-0.054,0-0.161c0-0.835,0.193-4.817,3.598-9.851
+			c0.086-0.139,0.193-0.289,0.289-0.428"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+[Activity]
+name = x2o
+service_name = org.laptop.x2o
+class = activity.X2OActivity
+icon = activity-x2o
+activity_version = 9
+show_launcher = yes
+license = GPLv2+
